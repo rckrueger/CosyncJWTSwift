@@ -1,2 +1,3 @@
 # CosyncJWTSwift
-Swift SDK for CosyncJWT
+
+A description of this package.
